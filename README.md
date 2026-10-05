@@ -16,7 +16,6 @@ See `PocketDesk-Start.md` for the user's installation and feature guide. See `BU
 | `app/src/main/assets/app.js` | Working home screen and toolkit. |
 | `app/src/main/assets/core.js` | Safe calculator parser, validated state, URLs, dates, and time helpers. |
 | `app/src/main/AndroidManifest.xml` | Launcher entry, optional home entry, and normal permissions. |
-| `signing/pocketdesk-personal.p12` | Certificate used for this personal APK and later updates. |
 | `tests/` | Core tests, DOM behavior tests, and Playwright layout test script. |
 | `PocketDesk-Preview.html` | Standalone browser preview with the same interface. |
 
